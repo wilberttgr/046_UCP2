@@ -64,7 +64,6 @@ fun HalamanDua(
         Spacer(modifier = Modifier.padding(16.dp))
         Button(onClick = {onSubmitButtonClicked(listData)}) {
             Text(text = stringResource(id = R.string.confirm))
-
         }
     }
 }

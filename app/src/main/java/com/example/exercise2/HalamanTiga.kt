@@ -18,7 +18,7 @@ import androidx.compose.ui.unit.dp
 import com.example.exercise2.data.FormUIState
 
 @Composable
-fun HalamanDua(
+fun HalamanTiga(
     formUIState: FormUIState,
     onBackButtonClicked: () -> Unit,
 ){
